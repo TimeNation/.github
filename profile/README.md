@@ -1,4 +1,10 @@
 ![TimeNation-Header](https://i.ibb.co/ctgbF4w/Time-Nation-Header-NEW.png)
-Hey 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/timenationnet?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/@TimeNationNET)
+Twitter:
+[![Twitter](https://img.shields.io/twitter/follow/timenationnet?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/@TimeNationNET)
+
+YouTube:
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC5IC_t6OsrULJfVVxQcV0Tg?color=%20%23c4302b&label=TimeNation%20Netzwerk&logo=youtube&style=for-the-badge)
+
+Aktuelle Version:
+[![Version](https://img.shields.io/badge/TimeNation%20Version-v1.2-informational?style=for-the-badge&logo=appveyor)
