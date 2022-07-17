@@ -1,4 +1,4 @@
-![TimeNation-Header](https://i.ibb.co/ctgbF4w/Time-Nation-Header-NEW.png)
+![TimeNation-Header](https://user-images.githubusercontent.com/71549276/179411250-4e0f9c47-e9e5-4342-9e9e-15a8178d6728.png)
 
 ## TimeNation Netzwerk
 
